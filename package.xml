@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>multi_copter_msgs</name>
+  <version>0.0.0</version>
+  <description>TODO: package discription</description>
+  <maintainer email="3cjnm018@mail.u-tokai.ac.jp">GNagahashi</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!-- build_depend -->
+  <build_depend>message_generation</build_depend>
+
+  <!-- build_export_depend -->
+
+  <!-- exec_depend -->
+  <exec_depend>message_runtime</exec_depend>
+
+</package>
