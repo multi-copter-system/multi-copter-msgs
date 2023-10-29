@@ -1,4 +1,4 @@
-string request
+string cmd
 Position waypoint
 ---
 string response
