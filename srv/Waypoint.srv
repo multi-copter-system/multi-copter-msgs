@@ -1,3 +1,5 @@
-string request
+string cmd
+Position wp
 ---
-Position waypoint
+bool result
+Position wp
