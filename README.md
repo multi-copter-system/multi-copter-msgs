@@ -1,4 +1,7 @@
-# multi-copter-msgs
+# multi_copter_msgs
+
+This package provides custom message for this package: https://github.com/multi-copter-system/multi-copter-ctrl
+
 
 <!--
 ## refarences
